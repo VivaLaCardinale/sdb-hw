@@ -53,4 +53,10 @@ Master-Master обычно используется в сучае, когда к
 
 ### Решение 2.
 
+![img1](img/image1.png) <br>
+
+![img2](img/image2.png) <br>
+
+![img3](img/image3.png) <br>
+
 ---
