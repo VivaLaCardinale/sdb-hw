@@ -34,6 +34,4 @@
 
 ![img6](img/image6.png) <br>
 
-![img7](img/image7.png) <br>
-
 ---
